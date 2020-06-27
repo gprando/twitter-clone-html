@@ -20,9 +20,9 @@ Twitter clone
 </p>
 
 ## Features
-- 💹 **HTML** -  linguagem de marcação;
-- ⚛️ **CSS3** — Estilização de elementos;
-- ⚛️ **FlexBox** — Features do css3;
+- :keyboard: **HTML** -  linguagem de marcação;
+- :nail_care: **CSS3** — Estilização de elementos;
+- :ballot_box_with_check: **FlexBox** — Features do css3;
 
 ## Getting started
 
